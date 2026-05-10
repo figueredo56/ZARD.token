@@ -10,6 +10,9 @@ Proyecto: ZAARD INNOVATION
 ### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
 
 Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
+
+![logo Black](https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/60%20sin%20t%C3%ADtulo_20260509231919_1.png)
+
 ---
 # ZAARD INNOVATION 🚀
 
