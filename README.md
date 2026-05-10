@@ -118,11 +118,8 @@ Este documento es para desarrolladores, auditores y expertos técnicos. Explica 
 ## 💎 JERARQUÍA DEL ECOSISTEMA ZAARD (NFTs)
 Explora la exclusividad y el poder de nuestros activos digitales verificados, desde los pilares de la economía hasta la deidad absoluta de la red.
 
-### ✨ Los Pilares de la Economía
-*Los rangos fundamentales que sostienen el valor de nuestra comunidad.*
 
-![Zaard Innovation](https://ipfs.io/ipfs/bafkreicd3i7jagmv5iig5t3nttdqpwmv6xa2e3ahyvtzh7vy2hdglbfvsq)
-
+---
 ---
 
 ### 🔥 La Trilogía de Gemas Elementales
