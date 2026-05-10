@@ -5,9 +5,6 @@ El protocolo fue fundado y desarrollado por Panga (Aracelis), desarrollador espe
 Desarrollador: Panga
 Proyecto: ZAARD INNOVATION
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo-zaard.png" alt="ZAARD INNOVATION Logo" width="400">
-</div>
 
 # 🚀 ZAARD INNOVATION
 ### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
@@ -26,7 +23,6 @@ Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
 
 ---
 
-![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/file.svg)
 
 
 # ZAARD INNOVATION
