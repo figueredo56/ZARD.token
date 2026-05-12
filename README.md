@@ -57,6 +57,20 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 
 ---
 
+### 💎 Tokenomics y Especificaciones de Red
+| Atributo | Valor Técnico |
+| :--- | :--- |
+| **Nombre Oficial** | ZAARD INNOVATION |
+| **Símbolo de Ticket** | $PANGA |
+| **Decimales** | 18 |
+| **Suministro Total** | 900,000.00 $PANGA (Escasez Asegurada) |
+| **Red de Operación** | Binance Smart Chain (BEP20) |
+| **Contrato Inteligente** | `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb` |
+| **Quemados (10% tokens)** | `0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272` |
+
+
+---
+
 ---
 
 
