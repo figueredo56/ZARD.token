@@ -1,3 +1,5 @@
+![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/CC_20260512_074439.svg)
+
 ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb) es el activo principal de utilidad y recompensas.
 
 El protocolo fue fundado y desarrollado por Panga (Aracelis), desarrollador especializado en Solidity y experto en activos digitales. Bajo la visión de Panga, el proyecto prioriza la seguridad y transparencia, contando con liquidez bloqueada (97.60%), contratos verificados y una hoja de ruta orientada a la expansión multichain.
