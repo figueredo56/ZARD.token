@@ -1,4 +1,4 @@
-![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/CC_20260512_074439.svg)
+![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/4d2eb54a774fefb1c05f502dfecfca033a21d939/CC_20260518_123901.svg)
 
 ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb) es el activo principal de utilidad y recompensas.
 
