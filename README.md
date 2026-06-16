@@ -61,7 +61,7 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 | Atributo | Valor Técnico |
 | :--- | :--- |
 | **Nombre Oficial** | ZAARD INNOVATION |
-| **Símbolo de Ticket** | $ZAARD |
+| **Símbolo de Ticket** | $ZARD |
 | **Decimales** | 18 |
 | **Suministro Total** | 200.00 $ZARD (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
