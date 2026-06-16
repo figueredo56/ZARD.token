@@ -1,6 +1,6 @@
 ![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/4d2eb54a774fefb1c05f502dfecfca033a21d939/CC_20260518_123901.svg)
 
-ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb) es el activo principal de utilidad y recompensas.
+ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65) es el activo principal de utilidad y recompensas.
 
 El protocolo fue fundado y desarrollado por Panga (Aracelis), desarrollador especializado en Solidity y experto en activos digitales. Bajo la visión de Panga, el proyecto prioriza la seguridad y transparencia, contando con liquidez bloqueada (97.60%), contratos verificados y una hoja de ruta orientada a la expansión multichain.
 
@@ -34,7 +34,7 @@ Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
 
 💎 Fundamentos de Acero
 
-Lo que separa a un proyecto pasajero de una revolución es su base. ZAARD.2 se ha construido sobre tres pilares innegociables:
+Lo que separa a un proyecto pasajero de una revolución es su base. ZARD se ha construido sobre tres pilares innegociables:
 
 Código Abierto (Open Source): ¡Sin secretos! El equipo ha liberado el repositorio oficial en GitHub. Cualquier desarrollador o inversor puede auditar el Smart Contract. En ZAARD.2, la confianza no se pide, se demuestra.
 
@@ -65,8 +65,8 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 | **Decimales** | 18 |
 | **Suministro Total** | 900,000.00 $ZAARD (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb` |
-| **Quemados (10% tokens)** | `0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272` |
+| **Contrato Inteligente** | `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65` |
+| **Quemados (10% tokens)** | `0x` |
 
 
 ---
@@ -89,7 +89,7 @@ Compromiso Inquebrantable: Cada rango es una declaración de principios sobre el
 
 El Momento es Ahora: Mientras otros dudan, nosotros construimos. Mientras otros esperan, nosotros lanzamos.
 
-ZAARD no es una prueba; es el estándar. Hemos creado el activo definitivo para quienes tienen el valor de apostar por el mañana hoy mismo.
+ZARD no es una prueba; es el estándar. Hemos creado el activo definitivo para quienes tienen el valor de apostar por el mañana hoy mismo.
 
 Únete a la legión del Fénix. Adquiere tu rango oficial y sé parte del legado que está transformando la blockchain. 🔥💎
 # ZAARD Token: El Ecosistema de Gestión de Activos con IA
@@ -195,14 +195,14 @@ No te limites a ser parte de la historia. Sé el dueño de la tecnología que la
 
 El ecosistema **ZAARD INNOVATION** es una obra de ingeniería financiera donde la seguridad se encuentra con el movimiento perpetuo. 
 
-### 📐 La Ecuación de Valor ZAARD (EVZ)
+### 📐 La Ecuación de Valor ZARD (EVZ)
 Para entender por qué este ecosistema es indestructible, aplicamos la lógica matemática de acumulación:
 
 $$G_t = (Z_h \cdot 0.20) + \sum_{n=1}^{\infty} (P_t \cdot \Delta_{price})$$
 
 Donde:
 * $G_t$: Ganancia Total Acumulada.
-* $Z_h$: Reserva Blindada en ZAARD (El Pilar).
+* $Z_h$: Reserva Blindada en ZARD (El Pilar).
 * $P_t$: Capital de Trade en PANGA (La Fuerza).
 * $\Delta_{price}$: Diferencial de compra/venta (Comprar barato, vender caro).
 
@@ -212,7 +212,7 @@ Donde:
 
 | Activo | Función | Porcentaje | Acción Estratégica |
 | :--- | :--- | :--- | :--- |
-| **ZAARD** | **CAJA FUERTE** | **20% (Fijo)** | HOLD Perpetuo / Respaldo de Capital |
+| **ZARD** | **CAJA FUERTE** | **20% (Fijo)** | HOLD Perpetuo / Respaldo de Capital |
 | **PANGA** | **MOTOR TRADE** | **80% (Móvil)** | Swing Trading (Ataque al mercado) |
 | **POOL** | **LIQUIDEZ** | **100%** | Garantía de cambio inmediato ZAARD/PANGA |
 
@@ -220,9 +220,9 @@ Donde:
 
 ### 🚀 El Ciclo Infinito de Riqueza
 
-1. **Blindaje**: Mantienes tu 20% en **ZAARD**. Eres intocable.
+1. **Blindaje**: Mantienes tu 20% en **ZARD**. Eres intocable.
 2. **Incursión**: Con el 80%, entras en **PANGA** cuando el radar detecta precios bajos.
-3. **Extracción**: Al subir el precio de PANGA, conviertes la plusvalía de vuelta a **ZAARD**.
+3. **Extracción**: Al subir el precio de PANGA, conviertes la plusvalía de vuelta a **ZARD**.
 
 **¿El resultado final?** Tu "Caja Fuerte" de ZAARD crece exponencialmente sin inyectar capital nuevo, solo aprovechando la fuerza de trade de PANGA.
 
