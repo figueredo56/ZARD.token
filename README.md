@@ -69,6 +69,8 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 | **Quemados (10% tokens)** | `0x` |
 
 
+![ZAARD PINK](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/131%20sin%20t%C3%ADtulo_20260618090852.png).
+
 ---
 
 ---
