@@ -36,9 +36,9 @@ Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
 
 Lo que separa a un proyecto pasajero de una revolución es su base. ZARD se ha construido sobre tres pilares innegociables:
 
-Código Abierto (Open Source): ¡Sin secretos! El equipo ha liberado el repositorio oficial en GitHub. Cualquier desarrollador o inversor puede auditar el Smart Contract. En ZAARD.2, la confianza no se pide, se demuestra.
+Código Abierto (Open Source): ¡Sin secretos! El equipo ha liberado el repositorio oficial en GitHub. Cualquier desarrollador o inversor puede auditar el Smart Contract. En ZAARD, la confianza no se pide, se demuestra.
 
-Escasez Real y Suministro Transparente: Con un suministro total de tan solo 1,000,000 de tokens, ZAARD.2 apuesta por la exclusividad. En un mercado inundado de trillones de tokens sin valor, la estructura de ZAARD está diseñada para la apreciación y el impacto real.
+Escasez Real y Suministro Transparente: Con un suministro total de tan solo 200 de tokens, ZARD apuesta por la exclusividad. En un mercado inundado de trillones de tokens sin valor, la estructura de ZAARD está diseñada para la apreciación y el impacto real.
 
 Verificación Total: El contrato ya está verificado en BscScan, asegurando que lo que ves es exactamente lo que obtienes. Seguridad máxima para los holders.
 
