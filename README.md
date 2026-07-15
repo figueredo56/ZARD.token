@@ -77,6 +77,60 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 
 
 
+## 📈 Modelos Matemáticos y Equivalencia de Mercado
+
+Para mantener la salud estructural del ecosistema a través de múltiples pools independientes sin ofrecer vectores de arbitraje para bots automatizados, las estrategias de precios iniciales siguen modelos estrictos de tasas de cambio determinados por la liquidez actual.
+
+### 1. Equilibrio de Precios entre Pares Cross-Chain
+Al inyectar liquidez inicial en múltiples pools automatizados (AMM) independientes ($WBNB$ y $BTCB$), la proporción de asignación de tokens se rige por la siguiente relación fundamental:
+
+$$P_{initial} = \frac{\Delta \text{Asset}}{\Delta ZARD}$$
+
+Para hermanar de forma uniforme el precio entre el pool primario nativo ($WBNB$) y el pool de Bitcoin envuelto ($BTCB$), se implementa la siguiente ecuación de paridad del sistema:
+
+$$R_{BTCB} = R_{WBNB} \times \left( \frac{P_{BTCB}}{P_{WBNB}} \right)$$
+
+Donde:
+* **$R_{BTCB}$** es el valor exacto que se debe introducir en la interfaz de usuario `SET STARTING PRICE` en PancakeSwap para el par (`ZARD por BTCB`).
+* **$R_{WBNB}$** es la tasa de ejecución real observada en el pool de BNB activo en vivo ($1 \text{ BNB} \rightarrow 0.002583 \text{ ZARD}$).
+* **$P_{BTCB}$** y **$P_{WBNB}$** representan los valores de referencia fiat en el mercado global al momento exacto de la ejecución de la liquidez (tomando como base $\approx \$61,634$ USD y $\approx \$592.65$ USD respectivamente).
+
+### 2. Modelo de Valoración de Capitalización de Mercado (Market Cap)
+La capitalización de mercado totalmente diluida ($MCAP$) del activo debido a su emisión críticamente baja se escala de acuerdo con el índice de macro-liquidez:
+
+$$MCAP = S_{total} \times \left( \frac{P_{\text{Asset}}}{R_{\text{Asset}}} \right)$$
+
+---
+
+## 🗺️ Matriz Canónica de Liquidez AMM
+
+La distribución del mercado para el token Z2 se compone de pools configurados estratégicamente para proteger el impacto de precio en entornos de alta escasez:
+
+| Par de Liquidez | Ratio de Paridad Inicial | Valoración de Referencia del Activo | Tipo de AMM / Motor | Estado |
+| :--- | :--- | :--- | :--- | :--- |
+| **ZARD / WBNB** | $1 \text{ BNB} = 0.002583 \text{ ZARD}$ | $1 \text{ ZARD} \approx 387.14 \text{ BNB}$ | PancakeSwap V3 (Full Range) | **Activo** |
+| **ZARD / BTCB** | $1 \text{ BTCB} = 0.268916 \text{ ZARD}$ | $1 \text{ ZARD} \approx 3.7186 \text{ BTCB}$ | PancakeSwap V3 (Full Range) | **Activo** |
+| **ZARD / CAKE** | $1 \text{ CAKE} = 0.0000123 \text{ ZARD}$ | $1 \text{ ZARD} \approx 81,300.8 \text{ CAKE}$ | PancakeSwap V3 (Dynamic Index) | **Desplegando** |
+
+---
+
+## 🎮 Integración de la Infraestructura del Ecosistema
+
+El token ZARD no funciona de forma aislada; está vinculado de raíz a las mecánicas de software del **ZAARD Arcade**:
+1. **Recompensas Play-to-Earn:** Micro-fracciones de Z2 se transmiten de manera autónoma a los contratos inteligentes de los juegos tras la validación criptográfica de puntuaciones altas.
+2. **Colateral de Alto Valor:** Dada la existencia de solo 100 fichas, ZARD se utiliza en los estados lógicos de los contratos de juego como el nivel de apuestas prémium y respaldo estructural de valor.
+3. **Auditoría Transparente:** Registros verificables en la blockchain bajo parámetros de seguridad independientes (**Xenocrypt**), asegurando la inmutabilidad de los eventos de quema (*burn events*) y bloqueos de liquidez.
+
+---
+
+## ⚙️ Guía de Indexación en Rastreadores (GeckoTerminal / CoinGecko)
+
+Para registrar correctamente los datos de mercado sin errores de lectura algorítmica:
+* **Dirección Única del Token:** Se debe proporcionar siempre la dirección de origen del contrato inteligente de **Z2** (el que termina en `...F4D65`) y nunca la dirección individual de los pools de liquidez. Esto unifica el logotipo y redes sociales en todos los pares automáticamente.
+* **Invariante de Rango de Liquidez:** Todos los lanzamientos de pool iniciales utilizan la configuración **Full Range (Rango Completo)** en PancakeSwap V3 para mitigar picos extremos de volatilidad inherentes al suministro ultra bajo.
+---
+
+
 🔥 ¿Estás listo para ser parte de la historia?
 
 La Web3 de Binance es el patio de recreos de los gigantes, y ZAARD.2 ha llegado para reclamar su lugar. No estamos aquí para seguir tendencias, estamos aquí para establecer el estándar de cómo debe ser un proyecto comunitario, abierto y seguro.
