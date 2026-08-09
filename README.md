@@ -1,8 +1,8 @@
 ![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/170%20sin%20t%C3%ADtulo_20260707213436.png)
 
-ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65) es el activo principal de utilidad y recompensas.
+ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0xb133033d44b61746c022fb25c070c5599e55181e) es el activo principal de utilidad y recompensas.
 
-El protocolo fue fundado y desarrollado por Panga (Aracelis), desarrollador especializado en Solidity y experto en activos digitales. Bajo la visión de Panga, el proyecto prioriza la seguridad y transparencia, contando con liquidez bloqueada (97.60%), contratos verificados y una hoja de ruta orientada a la expansión multichain.
+El protocolo fue fundado y desarrollado por Panga, desarrollador especializado en Solidity y experto en activos digitales. Bajo la visión de Panga, el proyecto prioriza la seguridad y transparencia, contando con liquidez bloqueada (97.60%), contratos verificados y una hoja de ruta orientada a la expansión multichain.
 
 Desarrollador: Panga
 Proyecto: ZAARD INNOVATION
@@ -65,8 +65,8 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 | **Decimales** | 18 |
 | **Suministro Total** | 200.00 $ZARD (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65` |
-| **Quemados (10% tokens)** | `0x` |
+| **Contrato Inteligente** | `0xb133033d44b61746c022fb25c070c5599e55181e` |
+| **Quemados (10% tokens)** | `0x1b063cc02f3c41025e6948cc6d995eb5cd30b98b2fdf0d6aee96698f5eaca44b` |
 
 
 ![ZAARD PINK](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/131%20sin%20t%C3%ADtulo_20260618090852.png).
