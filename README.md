@@ -1,14 +1,7 @@
-<div align="center">
-
-  <!-- Imagen del logo (asegúrate de que la carpeta y el archivo se llamen tal cual) -->
-  <a href="https://x.com/ZAARD_666">
-    <img src="./assets/logo_zard.png" alt="Logo ZARD" width="250" />
-  </a>
-
-  <br><br>
+![logo Black](https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/60%20sin%20t%C3%ADtulo_20260509231919_1.png)
 
   <!-- Enlace de texto para ver la imagen en internet -->
-  <a href="https://raw.githubusercontent.com/Figueredo56/ZAARD/main/assets/logo_zard.png" target="_blank">
+  <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
     🌐 Ver imagen completa en internet
   </a>
 
