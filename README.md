@@ -1,4 +1,4 @@
-![logo Black](https://misty-wildflower-939.linkyhost.com/" target=")
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/Figueredo56/ZARD.token/main/assets/logo_zard.png)
 
   <!-- Enlace de texto para ver la imagen en internet -->
   <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
