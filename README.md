@@ -1,4 +1,4 @@
-![logo Black](https://misty-wildflower-939.linkyhost.com/" target="_blank">)
+![logo Black](https://misty-wildflower-939.linkyhost.com/" target=")
 
   <!-- Enlace de texto para ver la imagen en internet -->
   <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
