@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/logo_zard.png" alt="Logo ZAARD INNOVATION" width="300" />
-</div>
-
   <!-- Enlace de texto para ver la imagen en internet -->
   <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
     🌐 Ver imagen completa en internet
