@@ -1,4 +1,4 @@
-![logo Black](https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/60%20sin%20t%C3%ADtulo_20260509231919_1.png)
+![logo Black](https://misty-wildflower-939.linkyhost.com/" target="_blank">)
 
   <!-- Enlace de texto para ver la imagen en internet -->
   <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
