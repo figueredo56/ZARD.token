@@ -115,8 +115,8 @@ La distribución del mercado para el token Z2 se compone de pools configurados e
 | Par de Liquidez | Ratio de Paridad Inicial | Valoración de Referencia del Activo | Tipo de AMM / Motor | Estado |
 | :--- | :--- | :--- | :--- | :--- |
 | **ZARD / WBNB** | $1 \text{ BNB} = 0.002583 \text{ ZARD}$ | $1 \text{ ZARD} \approx 387.14 \text{ BNB}$ | PancakeSwap V3 (Full Range) | **Activo** |
-| **ZARD / BTCB** | $1 \text{ BTCB} = 0.268916 \text{ ZARD}$ | $1 \text{ ZARD} \approx 3.7186 \text{ BTCB}$ | PancakeSwap V3 (Full Range) | **Activo** |
-| **ZARD / CAKE** | $1 \text{ CAKE} = 0.0000123 \text{ ZARD}$ | $1 \text{ ZARD} \approx 81,300.8 \text{ CAKE}$ | PancakeSwap V3 (Dynamic Index) | **Desplegando** |
+| **ZARD / BTCB** | $0 \text{ BTCB} = 0.000000 \text{ ZARD}$ | $0 \text{ ZARD} \approx 0.0000 \text{ BTCB}$ | PancakeSwap V3 (Full Range) | **Activo** |
+| **ZARD / CAKE** | $0 \text{ CAKE} = 0.0000000 \text{ ZARD}$ | $0 \text{ ZARD} \approx 00,000.0 \text{ CAKE}$ | PancakeSwap V3 (Dynamic Index) | **Desplegando** |
 
 ---
 
