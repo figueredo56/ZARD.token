@@ -1,4 +1,4 @@
-![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/Figueredo56/ZARD.token/main/assets/logo_zard.png)
+![Logo ZAARD INNOVATION](https://misty-wildflower-939.linkyhost.com/" target="_blank">)
 
   <!-- Enlace de texto para ver la imagen en internet -->
   <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
