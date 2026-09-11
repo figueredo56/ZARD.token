@@ -327,10 +327,10 @@ Hemos creado el ecosistema más único e innovador de la red. La liquidez está 
 Stay connected with the true source of ZAARD innovation.
 
 * **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
-* **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+* **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
-Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
+Desarrollado por **(Panga)** - Founder de ZAARD INNOVATION.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aracelis-figueredo-45284a408?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
