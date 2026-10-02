@@ -1,3 +1,6 @@
+![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
+![ZARD](https://photos.pinksale.finance/file/pinksale-logo-upload/1790632703567-2b0a1ede74dd019149a93fd685a93c36.png)![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
+
 # 🚀 ZAARD INNOVATION - ECOSISTEMA WEB3 & TOKEN
 
 <div align="center">
@@ -11,7 +14,7 @@
   <b>Un ecosistema tecnológico integral en la BNB Smart Chain (BSC) que fusiona contratos inteligentes, analíticas avanzadas y entretenimiento Web3.</b>
 </p>
 
-[🌐 Sitio Web Oficial](https://figueredo56.github.io/zaard-official/) · [💬 Canal de Telegram](https://t.me/ZAARD_Guardian_bot) · [📜 PancakeSwap DEX](https://pancakeswap.finance/swap?outputCurrency=0x472d59538effe1c85382e3e62e1b2ec995d382ef)
+[🌐 Sitio Web Oficial](https://figueredo56.github.io/zaard-official/) · [💬 Canal de Telegram](https://t.me/+Cjo5z_yXcdwzYjM5) · [📜 PancakeSwap DEX](https://pancakeswap.finance/swap?outputCurrency=0x472d59538effe1c85382e3e62e1b2ec995d382ef)
 
 ---
 
