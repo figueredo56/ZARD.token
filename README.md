@@ -1,11 +1,13 @@
-![logo Black](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
+![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
+![ZARD](https://photos.pinksale.finance/file/pinksale-logo-upload/1790632703567-2b0a1ede74dd019149a93fd685a93c36.png)![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
+
+ZARD
+`0x472d59538effe1c85382e3e62e1b2ec995d382ef`
   
   <!-- Enlace de texto para ver la imagen en internet -->
   <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
-    🌐 Ver imagen completa en internet
-  </a>
-
-`0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
+    🌐 Ver imagen completa
+`0x472d59538effe1c85382e3e62e1b2ec995d382ef`
 
 <div align="center">
 
