@@ -1,353 +1,77 @@
-![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
-![ZARD](https://photos.pinksale.finance/file/pinksale-logo-upload/1790632703567-2b0a1ede74dd019149a93fd685a93c36.png)![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
-
-ZARD
-`0x472d59538effe1c85382e3e62e1b2ec995d382ef`
-  
-  <!-- Enlace de texto para ver la imagen en internet -->
-  <a href="https://misty-wildflower-939.linkyhost.com/" target="_blank">
-    🌐 Ver imagen completa
-`0x472d59538effe1c85382e3e62e1b2ec995d382ef`
+# 🚀 ZAARD INNOVATION - ECOSISTEMA WEB3 & TOKEN
 
 <div align="center">
 
-  <a href="https://www.dexview.com/bsc/0x973ba2C1dCCD0820F1e026d6B1f01c55c4085d38" target="_blank">
-    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1788644497011-a93d76e16114b626547afc4936d073d2.png" alt="ZARD Token Logo" width="180" height="180" style="border-radius: 50%;" />
-  </a>
+[![BNB Smart Chain](https://img.shields.io/badge/Network-BNB%20Smart%20Chain-F3BA2F?style=for-the-badge&logo=binance)](https://bscscan.com)
+[![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://figueredo56.github.io/zaard-official/)
+[![Status](https://img.shields.io/badge/Status-Mainnet%20%2F%20Active-00ffcc?style=for-the-badge)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-  # 🚀 ZARD TOKEN 🚀
+<p align="center">
+  <b>Un ecosistema tecnológico integral en la BNB Smart Chain (BSC) que fusiona contratos inteligentes, analíticas avanzadas y entretenimiento Web3.</b>
+</p>
 
-  > *Building solid foundations and generating trust for our investors and new enthusiasts.*
+[🌐 Sitio Web Oficial](https://figueredo56.github.io/zaard-official/) · [💬 Canal de Telegram](https://t.me/ZAARD_Guardian_bot) · [📜 PancakeSwap DEX](https://pancakeswap.finance/swap?outputCurrency=0x472d59538effe1c85382e3e62e1b2ec995d382ef)
 
-  ---
+---
 
-  ### 📄 Contract Address (BSC)
-  ```text
-  0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38
+<img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790285851823-4955b8f5511ea8235af22dfb82371c91.png" alt="ZAARD INNOVATION Banner" width="400" style="border-radius: 12px; border: 2px solid #fcd535;"/>
 
 </div>
 
-
-ZAARD INNOVATION es un ecosistema tecnológico integral desarrollado en BNB Smart Chain (BSC), diseñado para fusionar contratos inteligentes con entretenimiento interactivo. El núcleo del proyecto es el ZAARD Arcade, una plataforma de juegos 2D desarrollada en Phaser 3 donde el token ZAARD (0x3eb930a1f8d562a72ba278d67b20b2d0d475d61f) es el activo principal de utilidad y recompensas.
-
-El protocolo fue fundado y desarrollado por Panga, desarrollador especializado en Solidity y experto en activos digitales. Bajo la visión de Panga, el proyecto prioriza la seguridad y transparencia, contando con liquidez bloqueada (97.60%), contratos verificados y una hoja de ruta orientada a la expansión multichain.
-
-Desarrollador: Panga
-Proyecto: ZAARD INNOVATION
-
-
-# 🚀 ZAARD INNOVATION
-### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
-
-Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
-
-![logo Black](https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/60%20sin%20t%C3%ADtulo_20260509231919_1.png)
-
 ---
-# ZAARD INNOVATION 🚀
+
+## 💎 ¿Qué es ZAARD INNOVATION?
+
+**ZAARD INNOVATION** es una plataforma tecnológica desarrollada bajo el sello **XENOCRYPT**, diseñada para transformar la experiencia Web3 mediante activos digitales de alta es escasez, contratos inteligentes seguros y aplicaciones descentralizadas de alto rendimiento en la **BNB Smart Chain (BSC)**.
 
 ---
 
-### Contacto Oficial
-Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
-[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+## 📜 Especificaciones Técnicas y Tokenomics
 
----
+El token oficial del ecosistema opera bajo un modelo de suministro estrictamente controlado para garantizar solidez y valor a largo plazo.
 
----
-
-
-
-# ZAARD INNOVATION
-
-💎 Fundamentos de Acero
-
-Lo que separa a un proyecto pasajero de una revolución es su base. ZARD se ha construido sobre tres pilares innegociables:
-
-Código Abierto (Open Source): ¡Sin secretos! El equipo ha liberado el repositorio oficial en GitHub. Cualquier desarrollador o inversor puede auditar el Smart Contract. En ZAARD, la confianza no se pide, se demuestra.
-
-Escasez Real y Suministro Transparente: Con un suministro total de tan solo 200 de tokens, ZARD apuesta por la exclusividad. En un mercado inundado de trillones de tokens sin valor, la estructura de ZAARD está diseñada para la apreciación y el impacto real.
-
-Verificación Total: El contrato ya está verificado en BscScan, asegurando que lo que ves es exactamente lo que obtienes. Seguridad máxima para los holders.
-
-📈 Un Momento Explosivo: ¡Estamos en el Inicio!
-
-El mercado está empezando a despertar. Con un crecimiento reciente del +16.3% y una capitalización de mercado aún joven de $1.11K, estamos ante el escenario soñado por cualquier inversor de la Web3: entrar antes de que el mundo se entere.
-
-Liquidez en PancakeSwap: Operando activamente en el DEX más grande de Binance.
-
-Comunidad Creciente: El número de titulares está en aumento constante, formando una base de "manos de diamante" lista para el siguiente nivel.
-
-ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema blockchain con soluciones de IA de alta fidelidad. Seguimos mejorando y avanzando con una visión clara: el futuro es hoy y nada nos detiene. 🚀🔥
-
-
-![Zaard Innovation](https://ipfs.io/ipfs/bafkreicd3i7jagmv5iig5t3nttdqpwmv6xa2e3ahyvtzh7vy2hdglbfvsq)
-
----
-
-### 💎 Tokenomics y Especificaciones de Red
 | Atributo | Valor Técnico |
 | :--- | :--- |
 | **Nombre Oficial** | ZAARD INNOVATION |
-| **Símbolo de Ticket** | $ZARD |
+| **Símbolo** | $ZARD |
 | **Decimales** | 18 |
-| **Suministro Total** | 1,000,000.00 $ZARD (Escasez Asegurada) |
-| **Red de Operación** | Binance Smart Chain (BEP20) |
+| **Red** | Binance Smart Chain (BEP-20) |
 | **Contrato Inteligente** | `0x472d59538effe1c85382e3e62e1b2ec995d382ef` |
-| ** POOL LIQUIDEZ ZARD ** | `0x8b58277e6298fc318a8a4d66cc41fdea3de8773b` |
-| ** POOL LIQUIDEZ   V2 ** | `0xf74575b2f43ff408dfe439fd9dff50ccc271419d` |
-| ** Renuncia al contrato**| `0x0169d617666e02818a73975b6aa54f86ebdf32ffe48b31f239735073052f6272` |
-
-![ZAARD PINK](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/131%20sin%20t%C3%ADtulo_20260618090852.png).
+| **Pool Principal WBNB** | `0x8b58277e6298fc318a8a4d66cc41fdea3de8773b` |
+| **Pool Alternativo V2** | `0xf74575b2f43ff408dfe439fd9dff50ccc271419d` |
+| **Estado del Contrato** | Propiedad Renunciada & Verificado en BscScan |
 
 ---
 
----
+## 🌟 Pilares del Ecosistema
 
-
-
-## 📈 Modelos Matemáticos y Equivalencia de Mercado
-
-Para mantener la salud estructural del ecosistema a través de múltiples pools independientes sin ofrecer vectores de arbitraje para bots automatizados, las estrategias de precios iniciales siguen modelos estrictos de tasas de cambio determinados por la liquidez actual.
-
-### 1. Equilibrio de Precios entre Pares Cross-Chain
-Al inyectar liquidez inicial en múltiples pools automatizados (AMM) independientes ($WBNB$ y $BTCB$), la proporción de asignación de tokens se rige por la siguiente relación fundamental:
-
-$$P_{initial} = \frac{\Delta \text{Asset}}{\Delta ZARD}$$
-
-Para hermanar de forma uniforme el precio entre el pool primario nativo ($WBNB$) y el pool de Bitcoin envuelto ($BTCB$), se implementa la siguiente ecuación de paridad del sistema:
-
-$$R_{BTCB} = R_{WBNB} \times \left( \frac{P_{BTCB}}{P_{WBNB}} \right)$$
-
-Donde:
-* **$R_{BTCB}$** es el valor exacto que se debe introducir en la interfaz de usuario `SET STARTING PRICE` en PancakeSwap para el par (`ZARD por BTCB`).
-* **$R_{WBNB}$** es la tasa de ejecución real observada en el pool de BNB activo en vivo ($1 \text{ BNB} \rightarrow 0.002583 \text{ ZARD}$).
-* **$P_{BTCB}$** y **$P_{WBNB}$** representan los valores de referencia fiat en el mercado global al momento exacto de la ejecución de la liquidez (tomando como base $\approx \$61,634$ USD y $\approx \$592.65$ USD respectivamente).
-
-### 2. Modelo de Valoración de Capitalización de Mercado (Market Cap)
-La capitalización de mercado totalmente diluida ($MCAP$) del activo debido a su emisión críticamente baja se escala de acuerdo con el índice de macro-liquidez:
-
-$$MCAP = S_{total} \times \left( \frac{P_{\text{Asset}}}{R_{\text{Asset}}} \right)$$
+*   🔓 **Código Abierto (Open Source):** Repositorios públicos y transparentes auditados y verificados en la red.
+*   ⚡ **Escasez Real:** Estructura de emisión diseñada para la apreciación del valor y el impacto sostenible.
+*   🛡️ **Seguridad Total:** Contratos blindados con liquidez bloqueada y control de propiedad verificado.
+*   🎮 **Integración con Arcade Web3:** Conexión directa con plataformas de juegos y paneles de analíticas en tiempo real.
 
 ---
-
-## 🗺️ Matriz Canónica de Liquidez AMM
-
-La distribución del mercado para el token Z2 se compone de pools configurados estratégicamente para proteger el impacto de precio en entornos de alta escasez:
-
-| Par de Liquidez | Ratio de Paridad Inicial | Valoración de Referencia del Activo | Tipo de AMM / Motor | Estado |
-| :--- | :--- | :--- | :--- | :--- |
-| **ZARD / WBNB** | $1 \text{ BNB} = 0.002583 \text{ ZARD}$ | $1 \text{ ZARD} \approx 387.14 \text{ BNB}$ | PancakeSwap V3 (Full Range) | **Activo** |
-| **ZARD / BTCB** | $0 \text{ BTCB} = 0.000000 \text{ ZARD}$ | $0 \text{ ZARD} \approx 0.0000 \text{ BTCB}$ | PancakeSwap V3 (Full Range) | **ESPERA** |
-| **ZARD / CAKE** | $0 \text{ CAKE} = 0.0000000 \text{ ZARD}$ | $0 \text{ ZARD} \approx 00,000.0 \text{ CAKE}$ | PancakeSwap V3 (Dynamic Index) | **ESPERA** |
-
----
-
-## 🎮 Integración de la Infraestructura del Ecosistema
-
-El token ZARD no funciona de forma aislada; está vinculado de raíz a las mecánicas de software del **ZAARD Arcade**:
-1. **Recompensas Play-to-Earn:** Micro-fracciones de Z2 se transmiten de manera autónoma a los contratos inteligentes de los juegos tras la validación criptográfica de puntuaciones altas.
-2. **Colateral de Alto Valor:** Dada la existencia de solo 100 fichas, ZARD se utiliza en los estados lógicos de los contratos de juego como el nivel de apuestas prémium y respaldo estructural de valor.
-3. **Auditoría Transparente:** Registros verificables en la blockchain bajo parámetros de seguridad independientes (**Xenocrypt**), asegurando la inmutabilidad de los eventos de quema (*burn events*) y bloqueos de liquidez.
-
----
-
-## ⚙️ Guía de Indexación en Rastreadores (GeckoTerminal / CoinGecko)
-
-Para registrar correctamente los datos de mercado sin errores de lectura algorítmica:
-* **Dirección Única del Token:** Se debe proporcionar siempre la dirección de origen del contrato inteligente de **Z2** (el que termina en `...F4D65`) y nunca la dirección individual de los pools de liquidez. Esto unifica el logotipo y redes sociales en todos los pares automáticamente.
-* **Invariante de Rango de Liquidez:** Todos los lanzamientos de pool iniciales utilizan la configuración **Full Range (Rango Completo)** en PancakeSwap V3 para mitigar picos extremos de volatilidad inherentes al suministro ultra bajo.
----
-
-
-🔥 ¿Estás listo para ser parte de la historia?
-
-La Web3 de Binance es el patio de recreos de los gigantes, y ZAARD.2 ha llegado para reclamar su lugar. No estamos aquí para seguir tendencias, estamos aquí para establecer el estándar de cómo debe ser un proyecto comunitario, abierto y seguro.
-🚀 No Solo Predecimos el Futuro, Lo Estamos Programando
-En ZAARD Innovation, nuestra fe en la nueva economía digital no se queda en palabras; se traduce en código y arte. Creemos de forma tan radical en lo que viene, que hemos materializado nuestra visión en estos NFTs Oficiales: activos diseñados para sobrevivir a la volatilidad y liderar la verdadera evolución de la Web3.
-
-¿Por qué conformarse con ser un espectador cuando puedes ser el dueño de la infraestructura?
-
-Legitimidad Absoluta: Estos no son solo activos, son los pilares de un ecosistema en expansión.
-
-Compromiso Inquebrantable: Cada rango es una declaración de principios sobre el valor, la escasez y la tecnología.
-
-El Momento es Ahora: Mientras otros dudan, nosotros construimos. Mientras otros esperan, nosotros lanzamos.
-
-ZARD no es una prueba; es el estándar. Hemos creado el activo definitivo para quienes tienen el valor de apostar por el mañana hoy mismo.
-
-Únete a la legión del Fénix. Adquiere tu rango oficial y sé parte del legado que está transformando la blockchain. 🔥💎
-# ZAARD Token: El Ecosistema de Gestión de Activos con IA
-
-Bienvenido al repositorio oficial de ZAARD en la BNB Smart Chain.
-
-
----
-
-## 🛡️ Seguridad y Confianza
-Para conocer más sobre las medidas de seguridad, el bloqueo de liquidez y la transparencia de nuestro ecosistema, visita nuestra guía oficial:
-
-### 👉 [LEER: ZAARD Proyecto Seguro](https://github.com/Figueredo56/ZAARD-Proyecto-Seguro)
-
-
----
-
----
-
 
 ## 📄 Documentación Oficial
 
-Para entender completamente el proyecto ZAARD, su visión, economía y tecnología detallada, por favor consulta nuestra documentación oficial:
-
-### 1. Visión y Economía del Proyecto (Whitepaper)
-
-Este documento explica **qué** es ZAARD, por qué existe, el problema que resuelve y cómo funciona la economía del token (tokenomics) para inversores y usuarios.
-
-👉 **[Leer el Whitepaper Completo (Visión General)](https://github.com/figueredo56/ZAARD_Whitepaper)**
+*   🌐 **Sitio Web Oficial:** [Visitar Plataforma](https://figueredo56.github.io/zaard-official/)
+*   📈 **Panel de Analíticas (Tracker):** [ZAARD Tracker en Vivo](https://figueredo56.github.io/zaard-tracker/)
+*   💼 **Billetera Web3 (Wallet):** [ZARD Nexus Dashboard](https://figueredo56.github.io/zaard-wallet/)
 
 ---
 
-### 2. Especificaciones Técnicas y Matemáticas (Yellow Paper)
+## 👤 Fundador y Desarrollo
 
-Este documento es para desarrolladores, auditores y expertos técnicos. Explica **cómo** funciona el protocolo a bajo nivel, incluyendo las fórmulas matemáticas del staking, la arquitectura de los contratos inteligentes y la optimización de metadatos con IA `{}`.
-
-👉 **[Leer el Yellow Paper Completo (Detalles Técnicos)](https://github.com/figueredo56/zaard-yellowpaper)**
-
-
----
-
-## 💎 JERARQUÍA DEL ECOSISTEMA ZAARD (NFTs)
-Explora la exclusividad y el poder de nuestros activos digitales verificados, desde los pilares de la economía hasta la deidad absoluta de la red.
-
-
----
----
-
-### 🔥 La Trilogía de Gemas Elementales
-*Poder refinado y energía concentrada. Estos rangos representan la maestría sobre los elementos criptográficos.*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="100%">
-</p>
-
-
----
----
-
-### 👑 EL REY ABSOLUTO: ZAARD PANGA
-**EL INALCANZABLE - LA DEIDAD DE LA WEB3**
-
-Este no es un simple activo digital; es la manifestación del poder total en el ecosistema. Poseer al **Fénix PANGA** es poseer la llave de la deidad cripto. Es el rango supremo, la culminación de la colección, diseñado solo para los verdaderos visionarios de la Web3. Su poder es total, su presencia es absoluta y su valor trasciende el mercado. **Es la deidad que gobierna ZAARD.**
-
-![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/156%20sin%20t%C3%ADtulo_20260703000150.png)
----
-
-Si estás viendo esto, estás ante el vértice del ecosistema ZAARD. Mientras el mundo intenta entender la Web3, nosotros hemos construido su trono. El rango PANGA no se compara, no se iguala y no se detiene.
-
-¿Por qué es el activo que todos desean pero pocos poseerán?
-
-PODER GÉNESIS: Es la culminación de nuestra ingeniería. Poseerlo es tener el control total sobre la gobernanza y las recompensas máximas de la red.
-
-ESCASEZ RADICAL: No hay lugar para todos en la cima. PANGA es la distinción definitiva entre un usuario y un Líder de Ecosistema.
-
-CONFIANZA TOTAL: Creemos tanto en el futuro que no solo lo imaginamos, creamos los activos oficiales que lo sostienen. ZAARD es la infraestructura; PANGA es el poder que la mueve.
+*   **Fundador / Lead Developer:** Panga (Aracelis Figueredo)
+*   **Sello Tecnológico:** XENOCRYPT
+*   **Contacto de Soporte:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
 
 ---
 
+> **⚠️ Aviso de Riesgo:** La interacción con contratos inteligentes y activos descentralizados conlleva riesgos de mercado. Asegúrese de operar siempre a través de los canales y enlaces oficiales verificados de ZAARD INNOVATION.
 
-#Activos Digitales y Colecciones (NFTs)
-
-El ecosistema ZAARD INNOVATION se divide en dos vertientes estratégicas de activos digitales, cada una con su propia arquitectura de metadatos e infraestructura en IPFS:
-
-#ZAARD INFINITO
-Colección de alta gama que integra metadatos dinámicos impulsados por Inteligencia Artificial. Representa la cúspide técnica de nuestra integración entre algoritmos y blockchain.
-👉 [Explorar Repositorio ZAARD INFINITO](https://github.com/figueredo56/ZAARD-NFT-Contract)
-
-#ZAARD COLLECTION
-Repositorio dedicado a la gestión de activos estándar del ecosistema, optimizados para una alta eficiencia en la red BSC y máxima compatibilidad con marketplaces globales.
-👉 [Explorar Repositorio ZAARD COLLECTION](https://github.com/figueredo56/ZAARD_COLLECTION)
-
----
-
-"En un mar de tokens vacíos, PANGA es el Fénix que quema la mediocridad para dar paso a la verdadera innovación tecnológica."
-
-No te limites a ser parte de la historia. Sé el dueño de la tecnología que la escribe.
-
----
----
-
-# 💎 El Vértice del Poder: La Sinergia Perfecta (ZAARD x PANGA)
-
-El ecosistema **ZAARD INNOVATION** es una obra de ingeniería financiera donde la seguridad se encuentra con el movimiento perpetuo. 
-
-### 📐 La Ecuación de Valor ZARD (EVZ)
-Para entender por qué este ecosistema es indestructible, aplicamos la lógica matemática de acumulación:
-
-$$G_t = (Z_h \cdot 0.20) + \sum_{n=1}^{\infty} (P_t \cdot \Delta_{price})$$
-
-Donde:
-* $G_t$: Ganancia Total Acumulada.
-* $Z_h$: Reserva Blindada en ZARD (El Pilar).
-* $P_t$: Capital de Trade en PANGA (La Fuerza).
-* $\Delta_{price}$: Diferencial de compra/venta (Comprar barato, vender caro).
-
----
-
-### 📊 Tabla de Operatividad Táctica (Método 80/20)
-
-| Activo | Función | Porcentaje | Acción Estratégica |
-| :--- | :--- | :--- | :--- |
-| **ZARD** | **CAJA FUERTE** | **20% (Fijo)** | HOLD Perpetuo / Respaldo de Capital |
-| **PANGA** | **MOTOR TRADE** | **80% (Móvil)** | Swing Trading (Ataque al mercado) |
-| **POOL** | **LIQUIDEZ** | **100%** | Garantía de cambio inmediato ZAARD/PANGA |
-
----
-
-### 🚀 El Ciclo Infinito de Riqueza
-
-1. **Blindaje**: Mantienes tu 20% en **ZARD**. Eres intocable.
-2. **Incursión**: Con el 80%, entras en **PANGA** cuando el radar detecta precios bajos.
-3. **Extracción**: Al subir el precio de PANGA, conviertes la plusvalía de vuelta a **ZARD**.
-
-**¿El resultado final?** Tu "Caja Fuerte" de ZAARD crece exponencialmente sin inyectar capital nuevo, solo aprovechando la fuerza de trade de PANGA.
-
----
-
-## 🌌 Conclusión: Broche de Oro, Diamante y Titanio
-
-> "En un mar de tokens vacíos, ZAARD es la infraestructura y PANGA es la energía. Juntos, forman el Efecto Fénix: un ascenso constante respaldado por auditoría técnica real."
-
-Hemos creado el ecosistema más único e innovador de la red. La liquidez está bloqueada, los permisos están en orden y la matemática está de tu lado. No eres un usuario, eres el arquitecto de tu propia abundancia.
-
-**La era de ZAARD ha comenzado.**
-
----
-
-
-## 🌐 Our Official Digital Presence
-
-Stay connected with the true source of ZAARD innovation.
-
-* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
-* **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
-* **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
-## 👤 Founder & Lead Developer
-Desarrollado por **(Panga)** - Founder de ZAARD INNOVATION.
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aracelis-figueredo-45284a408?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-> **⚠ CAUTION: Disclaimer ⚠**
-> This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
-
-- **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0x3eb930a1f8d562a72ba278d67b20b2d0d475d61f`
-
----
----
-[← Volver al repositorio principal de ZAARD INNOVATION](https://github.com/Figueredo56/ZAARD.token) | [Ir al Yellow Paper →](https://github.com/Figueredo56/zaard-yellowpaper)
-
-
-*© 2026 ZAARD INNOVATION - Todos los derechos reservados.*
-
+<div align="center">
+  <p><b>Desarrollado con 💜 por XENOCRYPT para ZAARD INNOVATION</b></p>
+  <p>© 2026 - Todos los derechos reservados</p>
+</div>
