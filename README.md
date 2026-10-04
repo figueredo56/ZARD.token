@@ -6,7 +6,7 @@
 <div align="center">
 
 [![BNB Smart Chain](https://img.shields.io/badge/Network-BNB%20Smart%20Chain-F3BA2F?style=for-the-badge&logo=binance)](https://bscscan.com)
-[![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://figueredo56.github.io/zaard-official/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://figueredo56.github.io/DAIoficial/)
 [![Status](https://img.shields.io/badge/Status-Mainnet%20%2F%20Active-00ffcc?style=for-the-badge)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -40,7 +40,7 @@ El token oficial del ecosistema opera bajo un modelo de suministro estrictamente
 | **Símbolo** | $ZARD |
 | **Decimales** | 18 |
 | **Red** | Binance Smart Chain (BEP-20) |
-| **Contrato Inteligente** | `0x7d8a6e4b99aaaadcd9af632f154ca803b199a129` |
+| **Contrato Inteligente** | `0x9a40409b909a90fc7ac6ea7cec5547362eaaa4a9` |
 | **Pool Principal WBNB** | `` |
 | **Pool Alternativo V2** | `` |
 | **Estado del Contrato** | Propiedad Renunciada & Verificado en BscScan |
