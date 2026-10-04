@@ -40,9 +40,9 @@ El token oficial del ecosistema opera bajo un modelo de suministro estrictamente
 | **Símbolo** | $ZARD |
 | **Decimales** | 18 |
 | **Red** | Binance Smart Chain (BEP-20) |
-| **Contrato Inteligente** | `0x472d59538effe1c85382e3e62e1b2ec995d382ef` |
-| **Pool Principal WBNB** | `0x8b58277e6298fc318a8a4d66cc41fdea3de8773b` |
-| **Pool Alternativo V2** | `0xf74575b2f43ff408dfe439fd9dff50ccc271419d` |
+| **Contrato Inteligente** | `0x7d8a6e4b99aaaadcd9af632f154ca803b199a129` |
+| **Pool Principal WBNB** | `` |
+| **Pool Alternativo V2** | `` |
 | **Estado del Contrato** | Propiedad Renunciada & Verificado en BscScan |
 
 ---
