@@ -58,7 +58,7 @@ El token oficial del ecosistema opera bajo un modelo de suministro estrictamente
 
 ## 📄 Documentación Oficial
 
-*   🌐 **Sitio Web Oficial:** [Visitar Plataforma](https://figueredo56.github.io/zaard-official/)
+*   🌐 **Sitio Web Oficial:** [Visitar Plataforma](https://figueredo56.github.io/DAIoficial/)
 *   📈 **Panel de Analíticas (Tracker):** [ZAARD Tracker en Vivo](https://figueredo56.github.io/zaard-tracker/)
 *   💼 **Billetera Web3 (Wallet):** [ZARD Nexus Dashboard](https://figueredo56.github.io/zaard-wallet/)
 
