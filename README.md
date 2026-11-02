@@ -93,6 +93,39 @@ Interfaz Web3 nativa orientada al usuario para una interacción fluida con la BN
 * Acceder a la interfaz: [ZARD Nexus Dashboard](https://figueredo56.github.io/zaard-wallet/)
 
 ---
+---
+![ZAARD INNOVATION Ecosystem](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
+
+---
+
+## 🔄 Estrategia Dinámica de Rotación y Arbitraje Interno (ZARD ↔ PANGA)
+
+El ecosistema **ZAARD INNOVATION** está diseñado con una arquitectura financiera orgánica donde **ZARD** y **PANGA** trabajan de manera sinérgica para maximizar la rentabilidad y proteger el capital de la comunidad:
+
+* **Sinergia Orgánica de Ingresos:** Ambos tokens operan de forma complementaria para generar liquidez y estabilidad en el mercado.
+* **Estrategia de Ciclos (ZARD / PANGA):** 
+  * Cuando **PANGA** presente un punto de entrada estratégico o corrección, puedes retirar o tomar ganancias de **ZARD** para inyectar liquidez directa a **PANGA**.
+  * Al consolidar y tomar ganancias en **PANGA** tras su subida, puedes reintegrar el capital hacia **ZARD**, cerrando un ciclo continuo de preservación y crecimiento de valor dentro del ecosistema.
+
+---
+
+## 🔀 Accesos Directos de Intercambio en PancakeSwap
+
+Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de swap directamente en BNB Smart Chain:
+
+### 🟡 Swap de BNB a ZARD
+[![Swap BNB a ZARD](https://img.shields.io/badge/PancakeSwap-Comprar%20ZARD%20con%20BNB-F3BA2F?style=for-the-badge&logo=pancakeswap&logoColor=black)](https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+
+---
+
+### 🟢 Swap de BNB a PANGA
+[![Swap BNB a PANGA](https://img.shields.io/badge/PancakeSwap-Comprar%20PANGA%20con%20BNB-10B981?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+
+---
+
+### 🟣 Swap Directo ZARD ↔ PANGA (Rotación de Liquidez)
+[![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+---
 
 ## 🛡️ Auditoría, Seguridad y Monitoreo On-Chain
 
