@@ -33,6 +33,17 @@ El protocolo se cimenta sobre la **Fuerza PANGA**, el núcleo ideológico e impu
 
 ---
 
+## 🛡️ Perfil de ZAARD_ALX
+
+### 1. Arquitecto Fundador y Autoridad Criptográfica — **ZAARD XENOCRYPT**
+<img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794442537930-136ad239342b403669d61407099f23ed.png" alt="ZAARD XENOCRYPT" width="140" align="left" style="margin-right: 15px;" />
+
+**Rango:** *Comandante Supremo & Arquitecto del Protocolo*  
+**ZAARD XENOCRYPT** representa el núcleo tecnológico, la firma de ingeniería criptográfica y la autoridad maestra detrás de todo el ecosistema. Como sello de innovación y desarrollo Web3, garantiza que cada contrato inteligente sea diseñado bajo estándares inmutables, auditoría rigurosa y protección absoluta contra vulnerabilidades, estableciendo la visión estratégica y la gobernanza central de $ZYM.
+<br clear="left"/>
+
+---
+
 ## ⚙️ Especificaciones Técnicas (Smart Contract Mainnet)
 
 El token `$ZARD` constituye el **token motor y combustible transaccional** de todo el protocolo. Diseñado con suministro ultra controlado e inmutabilidad garantizada.
