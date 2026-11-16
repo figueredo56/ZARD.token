@@ -6,11 +6,12 @@
 
 # 🚀 ZAARD INNOVATION — CORE WEB3 PROTOCOL & DEFI ECOSYSTEM
 
-[![BNB Smart Chain](https://img.shields.io/badge/Network-BNB%20Smart%20Chain-F3BA2F?style=for-the-badge&logo=binance)](https://bscscan.com)
-[![Solidity](https://img.shields.io/badge/Smart%20Contracts-Solidity%200.8.x-363636?style=for-the-badge&logo=solidity)](https://soliditylang.org)
-[![OpenZeppelin](https://img.shields.io/badge/Security-OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin)](https://openzeppelin.com)
-[![Status](https://img.shields.io/badge/Mainnet-Active%20%2F%20Verified-00ffcc?style=for-the-badge)]()
-[![Ownership Renounced](https://img.shields.io/badge/Ownership-Renounced%20(Immutable)-success?style=for-the-badge&logo=shield)](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b)
+[![Contrato ZARD BSC](https://img.shields.io/badge/Contrato%20ZARD-BscScan%20Verificado-F3BA2F?style=for-the-badge&logo=binance)](https://bscscan.com/token/0xE2879d1172215E728472D7827586bd2796aFA3fB)
+[![DApp Oficial](https://img.shields.io/badge/DApp-Sitio%20Web%20Oficial-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=black)](https://figueredo56.github.io/DAIoficial/)
+[![ZAARD Tracker](https://img.shields.io/badge/DApp-ZAARD%20Tracker-4E5EE4?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://figueredo56.github.io/zaard-tracker/)
+[![Nexus Wallet](https://img.shields.io/badge/DApp-Nexus%20Wallet-8B5CF6?style=for-the-badge&logo=walletconnect&logoColor=white)](https://figueredo56.github.io/zaard-wallet/)
+[![Binance Web3](https://img.shields.io/badge/Binance%20Web3-Acceso%20Directo-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0xE2879d1172215E728472D7827586bd2796aFA3fB&binanceChainId=56&chain=bsc)
+[![Ownership Renounced](https://img.shields.io/badge/Ownership-Renounced%20(Immutable)-10B981?style=for-the-badge&logo=shield&logoColor=white)](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b)
 
 <p align="center">
   <b>Infraestructura descentralizada de alta ingeniería financiera, tokenomía algorítmica, tokenización NFT y herramientas DeFi integradas sobre BNB Smart Chain (BSC). Impulsado por el motor criptográfico $ZARD bajo el sello tecnológico de XENOCRYPT.</b>
@@ -56,10 +57,10 @@ El token `$ZARD` constituye el **token motor y combustible transaccional** de to
 | **Estándar de Token** | BEP-20 (Optimized Standard) |
 | **Precisión Decimal** | 18 Decimals |
 | **Red / Chain ID** | BNB Smart Chain (BSC) / Chain ID: 56 |
-| **Contrato Inteligente Oficial** | `0xE2879d1172215E728472D7827586bd2796aFA3fB` |
+| **Contrato Inteligente Oficial** | [`0xE2879d1172215E728472D7827586bd2796aFA3fB`](https://bscscan.com/token/0xE2879d1172215E728472D7827586bd2796aFA3fB) |
 | **Arquitectura de Seguridad** | OpenZeppelin Contracts (AccessControl, SafeMath) |
 | **Gobernanza / Control** | [Ownership Renounced (Tx Hash)](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b) |
-| **Verificación en Explores** | Código Fuente 100% Verificado en BscScan |
+| **Verificación en Explores** | [Código Fuente 100% Verificado en BscScan](https://bscscan.com/address/0xE2879d1172215E728472D7827586bd2796aFA3fB#code) |
 
 ---
 
@@ -67,11 +68,11 @@ El token `$ZARD` constituye el **token motor y combustible transaccional** de to
 
 <p align="center">
   <a href="https://etherscan.io/verifySig/342019" target="_blank">
-    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794782255504-914ffc2f0b1ba7ab94be7a738923ede0.png" alt="Firma Verificada ZAARD" width="220" style="border-radius: 12px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99,102,241,0.4);" />
+    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794782255504-914ffc2f0b1ba7ab94be7a738923ede0.png" alt="Firma Verificada ZAARD" width="420" style="border-radius: 14px; border: 2px solid #6366F1; box-shadow: 0 0 20px rgba(99,102,241,0.5);" />
   </a>
 </p>
 <p align="center">
-  <b>🔑 <a href="https://etherscan.io/verifySig/342019">Haz clic aquí para validar la Firma Criptográfica Oficial de Autoría y Despliegue</a></b>
+  <b>🔑 <a href="https://etherscan.io/verifySig/342019">Haz clic sobre la imagen o aquí para validar la Firma Criptográfica Oficial de Autoría y Despliegue</a></b>
 </p>
 
 ---
@@ -152,41 +153,4 @@ Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de sw
 [![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
 ---
 
-## 🛡️ Auditoría, Seguridad y Monitoreo On-Chain
-
-La seguridad del contrato inteligente `$ZARD` ha sido verificada por proveedores líderes en análisis de código estático y dinámica de red:
-
-- 🔍 **GoPlus Labs Security:** [Reporte de Auditoría de Contrato](https://console.gopluslabs.io/token-security/56/0xE2879d1172215E728472D7827586bd2796aFA3fB)
-- 🛡️ **Token Sniffer Analysis:** [Verificación de Seguridad & Riesgos](https://tokensniffer.com/token/bsc/0xE2879d1172215E728472D7827586bd2796aFA3fB)
-- 📈 **DexView Analytics:** [Gráfico de Trading y Libro de Órdenes](https://www.dexview.com/bsc/0xE2879d1172215E728472D7827586bd2796aFA3fB)
-- 🥞 **PancakeSwap DEX:** [Intercambiar `$ZARD` en PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB)
-- 📜 **Renuncia de Propiedad On-Chain:** [Ver TX Hash en BscScan](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b)
-
----
-
-## 📄 Enlaces e Interfaces Oficiales
-
-- 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
-- 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
-- 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
-- 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
-
----
-
-## 👤 Equipo Core & Desarrollo
-
-- **Lead Blockchain Architect & Founder:** Panga
-- **Firma de Ingeniería Criptográfica:** XENOCRYPT
-- **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
-
----
-
-> **⚠️ Descargo de Responsabilidad (Disclaimer):**  
-> La interacción con contratos inteligentes, tokens criptográficos y protocolos DeFi conlleva riesgos inherentes debido a la volatilidad del mercado. Este documento tiene fines estrictamente técnicos e informativos. Realice siempre su propia investigación (*DYOR*) antes de interactuar con cualquier activo digital o piscina de liquidez.
-
-<div align="center">
-
-  <p><b>Diseñado y Desarrollado con Alta Ingeniería por XENOCRYPT para ZAARD INNOVATION</b></p>
-  <p>© 2026 - Todos los derechos reservados</p>
-
-</div>
+## 🛡️ Auditoría, Seguridad y
