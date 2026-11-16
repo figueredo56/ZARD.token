@@ -10,12 +10,13 @@
 [![Solidity](https://img.shields.io/badge/Smart%20Contracts-Solidity%200.8.x-363636?style=for-the-badge&logo=solidity)](https://soliditylang.org)
 [![OpenZeppelin](https://img.shields.io/badge/Security-OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin)](https://openzeppelin.com)
 [![Status](https://img.shields.io/badge/Mainnet-Active%20%2F%20Verified-00ffcc?style=for-the-badge)]()
+[![Ownership Renounced](https://img.shields.io/badge/Ownership-Renounced%20(Immutable)-success?style=for-the-badge&logo=shield)](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b)
 
 <p align="center">
   <b>Infraestructura descentralizada de alta ingeniería financiera, tokenomía algorítmica, tokenización NFT y herramientas DeFi integradas sobre BNB Smart Chain (BSC). Impulsado por el motor criptográfico $ZARD bajo el sello tecnológico de XENOCRYPT.</b>
 </p>
 
-[🌐 Sitio Web Oficial](https://figueredo56.github.io/DAIoficial/) · [💬 Telegram VIP](https://t.me/+Cjo5z_yXcdwzYjM5) · [📊 Binance Web3](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&binanceChainId=56&chain=bsc) · [📈 Live Tracker](https://figueredo56.github.io/zaard-tracker/) · [💼 Nexus Wallet](https://figueredo56.github.io/zaard-wallet/)
+[🌐 Sitio Web Oficial](https://figueredo56.github.io/DAIoficial/) · [💬 Telegram VIP](https://t.me/+Cjo5z_yXcdwzYjM5) · [📊 Binance Web3](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0xE2879d1172215E728472D7827586bd2796aFA3fB&binanceChainId=56&chain=bsc) · [📈 Live Tracker](https://figueredo56.github.io/zaard-tracker/) · [💼 Nexus Wallet](https://figueredo56.github.io/zaard-wallet/)
 
 ---
 
@@ -39,7 +40,7 @@ El protocolo se cimenta sobre la **Fuerza PANGA**, el núcleo ideológico e impu
 <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794442537930-136ad239342b403669d61407099f23ed.png" alt="ZAARD XENOCRYPT" width="140" align="left" style="margin-right: 15px;" />
 
 **Rango:** *Comandante Supremo & Arquitecto del Protocolo*  
-**ZAARD XENOCRYPT** representa el núcleo tecnológico, la firma de ingeniería criptográfica y la autoridad maestra detrás de todo el ecosistema. Como sello de innovación y desarrollo Web3, garantiza que cada contrato inteligente sea diseñado bajo estándares inmutables, auditoría rigurosa y protección absoluta contra vulnerabilidades, estableciendo la visión estratégica y la gobernanza central de $ZYM.
+**ZAARD XENOCRYPT** representa el núcleo tecnológico, la firma de ingeniería criptográfica y la autoridad maestra detrás de todo el ecosistema. Como sello de innovación y desarrollo Web3, garantiza que cada contrato inteligente sea diseñado bajo estándares inmutables, auditoría rigurosa y protección absoluta contra vulnerabilidades, estableciendo la visión estratégica y la gobernanza central de `$ZARD`.
 <br clear="left"/>
 
 ---
@@ -55,10 +56,23 @@ El token `$ZARD` constituye el **token motor y combustible transaccional** de to
 | **Estándar de Token** | BEP-20 (Optimized Standard) |
 | **Precisión Decimal** | 18 Decimals |
 | **Red / Chain ID** | BNB Smart Chain (BSC) / Chain ID: 56 |
-| **Contrato Inteligente Oficial** | `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38` |
+| **Contrato Inteligente Oficial** | `0xE2879d1172215E728472D7827586bd2796aFA3fB` |
 | **Arquitectura de Seguridad** | OpenZeppelin Contracts (AccessControl, SafeMath) |
-| **Gobernanza / Control** | Ownership Renounced (Propiedad Renunciada / Inmutable) |
+| **Gobernanza / Control** | [Ownership Renounced (Tx Hash)](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b) |
 | **Verificación en Explores** | Código Fuente 100% Verificado en BscScan |
+
+---
+
+## ✍️ Certificación y Firma Criptográfica Verificada
+
+<p align="center">
+  <a href="https://etherscan.io/verifySig/342019" target="_blank">
+    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794782255504-914ffc2f0b1ba7ab94be7a738923ede0.png" alt="Firma Verificada ZAARD" width="220" style="border-radius: 12px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99,102,241,0.4);" />
+  </a>
+</p>
+<p align="center">
+  <b>🔑 <a href="https://etherscan.io/verifySig/342019">Haz clic aquí para validar la Firma Criptográfica Oficial de Autoría y Despliegue</a></b>
+</p>
 
 ---
 
@@ -66,42 +80,42 @@ El token `$ZARD` constituye el **token motor y combustible transaccional** de to
 
 ### 1. 🏭 ZAARD Finance — Token Factory & Liquidity Launchpad
 Módulo de ingeniería financiera diseñado para democratizar la creación y el despliegue de activos en la Web3.
-* **Token Factory:** Permite la emisión de tokens BEP-20 personalizados sin necesidad de escribir código, aplicando estándares de seguridad precalculados de OpenZeppelin.
-* **Gestión & Inyección de Liquidez:** Herramientas integradas para emparejar nuevos tokens con `$ZARD` o `$WBNB`, aprovisionando Liquidity Pools (LPs) en DEXs como PancakeSwap (V2/V3).
-* **Mecanismos de Bloqueo:** Integración directa con protocolos de *Liquidity Lock* (PinkLock, Mudra, UNCX) para garantizar la protección del capital de la comunidad.
+- **Token Factory:** Permite la emisión de tokens BEP-20 personalizados sin necesidad de escribir código, aplicando estándares de seguridad precalculados de OpenZeppelin.
+- **Gestión & Inyección de Liquidez:** Herramientas integradas para emparejar nuevos tokens con `$ZARD` o `$WBNB`, aprovisionando Liquidity Pools (LPs) en DEXs como PancakeSwap (V2/V3).
+- **Mecanismos de Bloqueo:** Integración directa con protocolos de *Liquidity Lock* (PinkLock, Mudra, UNCX) para garantizar la protección del capital de la comunidad.
 
 ---
 
-### 2. ⚡ $ZARD — El Token Motor del Ecosistema
+### 2. ⚡ `$ZARD` — El Token Motor del Ecosistema
 El token `$ZARD` impulsa todas las interacciones dentro de las herramientas del ecosistema:
-* **Gobernanza & Utility:** Utilizado como mecanismo de acceso a servicios premium dentro de la suite ZAARD.
-* **Mecanismo Antinflacionario:** Diseñado con parámetros de escasez algorítmica para maximizar el valor de sostenibilidad a largo plazo.
-* **Interoperabilidad:** Moneda base de intercambio para la compra, minteo y comercio de colecciones NFT oficiales.
+- **Gobernanza & Utility:** Utilizado como mecanismo de acceso a servicios premium dentro de la suite ZAARD.
+- **Mecanismo Antinflacionario:** Diseñado con parámetros de escasez algorítmica para maximizar el valor de sostenibilidad a largo plazo.
+- **Interoperabilidad:** Moneda base de intercambio para la compra, minteo y comercio de colecciones NFT oficiales.
 
 ---
 
 ### 3. 🎨 Colección & Ecosistema NFT (ZAARD INFINITO / COLLECTION)
 El pilar de identidad visual y coleccionables digitales del protocolo representa la iconografía del Fénix, la fuerza y escudos metamórficos en 3D.
-* **Alojamiento Descentralizado:** Todos los metadatos JSON e imágenes en alta resolución están alojados de forma permanente en **IPFS vía Pinata**.
-* **Utilidad Web3:** Integración con dApps, saldos de membresía y acceso exclusivo dentro del ecosistema de juegos y paneles de control.
-* **Mercados Descentralizados:** Colecciones verificadas y operativas en plataformas como Element Market.
+- **Alojamiento Descentralizado:** Todos los metadatos JSON e imágenes en alta resolución están alojados de forma permanente en **IPFS vía Pinata**.
+- **Utilidad Web3:** Integración con dApps, saldos de membresía y acceso exclusivo dentro del ecosistema de juegos y paneles de control.
+- **Mercados Descentralizados:** Colecciones verificadas y operativas en plataformas como Element Market.
 
 ---
 
 ### 4. 📈 ZAARD Tracker — Analítica y Monitoreo en Tiempo Real
 Herramienta de supervisión avanzada alojada en la infraestructura del protocolo para seguimiento en vivo.
-* **Live Charting & Metrics:** Monitoreo del precio, volumen de negociación de 24h, capitalización de mercado (*Market Cap*) y liquidez total acumulada.
-* **Análisis de Holding:** Rastreo distribuido de billeteras poseedoras y detección automática de quema de tokens (*Token Burns*).
-* Visualizar en tiempo real: [ZAARD Tracker Suite](https://figueredo56.github.io/zaard-tracker/)
+- **Live Charting & Metrics:** Monitoreo del precio, volumen de negociación de 24h, capitalización de mercado (*Market Cap*) y liquidez total acumulada.
+- **Análisis de Holding:** Rastreo distribuido de billeteras poseedoras y detección automática de quema de tokens (*Token Burns*).
+- Visualizar en tiempo real: [ZAARD Tracker Suite](https://figueredo56.github.io/zaard-tracker/)
 
 ---
 
 ### 5. 💼 ZAARD Wallet (Nexus Dashboard) — La Cartera del Ecosistema
 Interfaz Web3 nativa orientada al usuario para una interacción fluida con la BNB Smart Chain.
-* **Gestión Multi-Activos:** Muestra el balance en tiempo real del token `$ZARD`, colecciones NFT e indicadores del mercado.
-* **Token Swaps Integrados:** Conexión directa mediante ethers.js/Web3Provider a piscinas de liquidez para intercambios instantáneos.
-* **Auditoría de Seguridad en Billetera:** Análisis de aprobaciones y estado de seguridad de tokens conectados.
-* Acceder a la interfaz: [ZARD Nexus Dashboard](https://figueredo56.github.io/zaard-wallet/)
+- **Gestión Multi-Activos:** Muestra el balance en tiempo real del token `$ZARD`, colecciones NFT e indicadores del mercado.
+- **Token Swaps Integrados:** Conexión directa mediante ethers.js/Web3Provider a piscinas de liquidez para intercambios instantáneos.
+- **Auditoría de Seguridad en Billetera:** Análisis de aprobaciones y estado de seguridad de tokens conectados.
+- Acceder a la interfaz: [ZARD Nexus Dashboard](https://figueredo56.github.io/zaard-wallet/)
 
 ---
 ---
@@ -113,8 +127,8 @@ Interfaz Web3 nativa orientada al usuario para una interacción fluida con la BN
 
 El ecosistema **ZAARD INNOVATION** está diseñado con una arquitectura financiera orgánica donde **ZARD** y **PANGA** trabajan de manera sinérgica para maximizar la rentabilidad y proteger el capital de la comunidad:
 
-* **Sinergia Orgánica de Ingresos:** Ambos tokens operan de forma complementaria para generar liquidez y estabilidad en el mercado.
-* **Estrategia de Ciclos (ZARD / PANGA):** 
+- **Sinergia Orgánica de Ingresos:** Ambos tokens operan de forma complementaria para generar liquidez y estabilidad en el mercado.
+- **Estrategia de Ciclos (ZARD / PANGA):** 
   * Cuando **PANGA** presente un punto de entrada estratégico o corrección, puedes retirar o tomar ganancias de **ZARD** para inyectar liquidez directa a **PANGA**.
   * Al consolidar y tomar ganancias en **PANGA** tras su subida, puedes reintegrar el capital hacia **ZARD**, cerrando un ciclo continuo de preservación y crecimiento de valor dentro del ecosistema.
 
@@ -125,7 +139,7 @@ El ecosistema **ZAARD INNOVATION** está diseñado con una arquitectura financie
 Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de swap directamente en BNB Smart Chain:
 
 ### 🟡 Swap de BNB a ZARD
-[![Swap BNB a ZARD](https://img.shields.io/badge/PancakeSwap-Comprar%20ZARD%20con%20BNB-F3BA2F?style=for-the-badge&logo=pancakeswap&logoColor=black)](https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+[![Swap BNB a ZARD](https://img.shields.io/badge/PancakeSwap-Comprar%20ZARD%20con%20BNB-F3BA2F?style=for-the-badge&logo=pancakeswap&logoColor=black)](https://pancakeswap.finance/swap?outputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB)
 
 ---
 
@@ -135,34 +149,35 @@ Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de sw
 ---
 
 ### 🟣 Swap Directo ZARD ↔ PANGA (Rotación de Liquidez)
-[![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+[![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
 ---
 
 ## 🛡️ Auditoría, Seguridad y Monitoreo On-Chain
 
 La seguridad del contrato inteligente `$ZARD` ha sido verificada por proveedores líderes en análisis de código estático y dinámica de red:
 
-* 🔍 **GoPlus Labs Security:** [Reporte de Auditoría de Contrato](https://console.gopluslabs.io/token-security/56/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
-* 🛡️ **Token Sniffer Analysis:** [Verificación de Seguridad & Riegos](https://tokensniffer.com/token/bsc/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
-* 📈 **DexView Analytics:** [Gráfico de Trading y Libro de Órdenes](https://www.dexview.com/bsc/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
-* 🥞 **PancakeSwap DEX:** [Intercambiar $ZARD en PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+- 🔍 **GoPlus Labs Security:** [Reporte de Auditoría de Contrato](https://console.gopluslabs.io/token-security/56/0xE2879d1172215E728472D7827586bd2796aFA3fB)
+- 🛡️ **Token Sniffer Analysis:** [Verificación de Seguridad & Riesgos](https://tokensniffer.com/token/bsc/0xE2879d1172215E728472D7827586bd2796aFA3fB)
+- 📈 **DexView Analytics:** [Gráfico de Trading y Libro de Órdenes](https://www.dexview.com/bsc/0xE2879d1172215E728472D7827586bd2796aFA3fB)
+- 🥞 **PancakeSwap DEX:** [Intercambiar `$ZARD` en PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB)
+- 📜 **Renuncia de Propiedad On-Chain:** [Ver TX Hash en BscScan](https://bscscan.com/tx/0x11eb4b8ed29ee60af03f669eb2d9efa1602d6f294cea47ddc1de964025e4863b)
 
 ---
 
 ## 📄 Enlaces e Interfaces Oficiales
 
-* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
-* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
-* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
-* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
+- 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+- 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+- 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+- 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
 
 ---
 
 ## 👤 Equipo Core & Desarrollo
 
-* **Lead Blockchain Architect & Founder:** Panga
-* **Firma de Ingeniería Criptográfica:** XENOCRYPT
-* **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+- **Lead Blockchain Architect & Founder:** Panga
+- **Firma de Ingeniería Criptográfica:** XENOCRYPT
+- **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
 
 ---
 
