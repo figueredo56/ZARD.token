@@ -154,3 +154,29 @@ Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de sw
 ---
 
 ## 🛡️ Auditoría, Seguridad y
+
+## 🌐 Our Official Digital Presence
+
+Stay connected with the true source of ZAARD innovation.
+
+* **🏠 Official Website:** [ZAARD WEB](https://figueredo56.github.io/DAIoficial/)
+* **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
+* **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+## 👤 Founder & Lead Developer
+Desarrollado por **Panga** - Founder de ZAARD INNOVATION.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaard-inovation-45284a408?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+> **⚠ CAUTION: Disclaimer ⚠**
+> This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
+
+---
+
+### 🛡️ Liderazgo & Filosofía
+**Panga (Aracelis)**, Lead Developer de **ZAARD INNOVATION**.
+*"Innovamos hoy, lideramos mañana. PANGA es nuestra declaración de guerra contra la opacidad. Seguridad y transparencia real."*
+
+---
+_Copyright © 2026 ZAARD INNOVATION. El futuro es azul. El futuro es PANGA._
