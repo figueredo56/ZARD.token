@@ -1,3 +1,4 @@
+`0x8fB6E15eDEC7C35182B74A3dDF8132e24Ef5a28a`
 <div align="center">
 
 ![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
